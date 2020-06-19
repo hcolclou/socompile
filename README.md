@@ -5,4 +5,4 @@ A tool to compile Socrative grades into a single spreadsheet.
 Run `pip install git+https://github.com/hcolclou/socompile`
 
 ## Use
-Run `socompile --help for information`
+Run `socompile --help` for information
